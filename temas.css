@@ -1,0 +1,50 @@
+.contenedor{
+
+    width: 100%;
+    height: 1200px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+   
+}
+.encabezado{
+
+width: 100%;
+height: 200px;
+background-color: bisque;
+font-size: 80px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sociales{
+    width: 100%;
+height: 3500px;
+background-color: darkgrey;
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ingles{
+    width: 100%;
+    height: 1800px;
+    background-color: chartreuse;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tecnologia{
+    width: 100%;
+height: 1200px;
+background-color: brown;
+font-size: 70px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
